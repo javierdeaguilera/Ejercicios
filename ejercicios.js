@@ -356,3 +356,13 @@ console.log(numDesordenado)
 
 // EJERCICIO 8
 
+/*
+        *
+      * * *
+    * * * * *
+  * * * * * * *
+    * * * * *
+      * * *
+        *
+*/
+
